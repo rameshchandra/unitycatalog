@@ -2237,7 +2237,6 @@ components:
         - USE SCHEMA
         - CREATE TABLE
         - SELECT
-        - MODIFY
         - CREATE FUNCTION
         - EXECUTE
         - CREATE VOLUME
